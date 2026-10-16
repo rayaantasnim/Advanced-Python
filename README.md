@@ -1,4 +1,4 @@
-![Server Network Infrastructure](https://unsplash.com/photos/a-close-up-of-a-server-rack-with-blue-lights-71Brcp3H9kc)
+![Server Network Infrastructure](https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg)
 
 # Core Algorithms, Linear Data Structures & Optimization Pipelines
 
@@ -24,7 +24,7 @@ This repository serves as a robust benchmark of production-grade algorithmic des
 
 ---
 
-![Core Architecture & Processing Pipeline](https://unsplash.com/photos/a-computer-screen-showing-lines-of-code-and-data-metrics-Mv9hjnEUHR4)
+![Core Architecture & Processing Pipeline](https://images.pexels.com/photos/6726394/pexels-photo-6726394.jpeg)
 
 ---
 
@@ -203,6 +203,9 @@ This repository serves as a robust benchmark of production-grade algorithmic des
 ---
 
 ---
+
+<center>
 Authorized by Rayaan Tasnim <br>
 Powered by Olympiad Edge <br>
-&copy; All Rights Reserved <br>
+&copy; All Rights Reserved <br> 
+</center>
